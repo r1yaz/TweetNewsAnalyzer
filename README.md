@@ -2,8 +2,6 @@ Name : Riyaz Rafi Ahmed
 
 Email : [_riyazahm3d@gmail.com_](mailto:riyazahm3d@gmail.com)
 
-Contact : 9629375211
-
 **Collecting tweets from Twitter**
 
 - We use the tweepy library to gather tweets from twitter and pymongo to load it into the mongodb instance
