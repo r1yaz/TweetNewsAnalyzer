@@ -1,3 +1,5 @@
+# DEPRECATED. NO LONGER SUPPORTED.
+
 Name : Riyaz Rafi Ahmed
 
 **Collecting tweets from Twitter**
